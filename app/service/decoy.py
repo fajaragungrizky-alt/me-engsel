@@ -9,7 +9,7 @@ class DecoyPackage:
     _instance_ = None
     _initialized_ = False
     
-    decoy_base_path = "decoy_data/pg-decoy-"
+    decoy_base_path = "decoy_data/decoy-"
     subscriber_id = None
     subscription_type = None
     
